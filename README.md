@@ -20,23 +20,24 @@
 	- 修改src/c3p0-config.xml中的数据库账号密码
 	- 在eclipse中配置好tomcat，run on server即可
 
-客户登录:
-    username: admin
-    password: 123456
-管理员登录
-    username: admin2
-    password: 123456
+- ### 账号
+    - 客户登录:
+        - username: admin
+        - password: 123456
+    - 管理员登录:
+        - username: admin2
+        - password: 123456
 # 二、预览
 
 
 
 ### 1、首页
 
-![](https://i.imgur.com/2yIrtBL.png)
+![](https://github.com/CrazyQii/EStore/blob/master/images/%E9%A6%96%E9%A1%B5.png)
 
 ### 2、分页
 
-![](https://i.imgur.com/IuFmvYt.png)
+![](https://github.com/CrazyQii/EStore/blob/master/images/%E5%88%86%E9%A1%B5.png)
 
 ### 3、范围筛选
 
@@ -48,15 +49,24 @@
 
 ### 5、商品详情
 
-    ![]()
+![](https://github.com/CrazyQii/EStore/blob/master/images/%E8%AF%BE%E7%A8%8B%E8%AF%A6%E6%83%85.png)
 
-### 6、已购商品
+### 6、课程评价
 
-![]()
+![](https://github.com/CrazyQii/EStore/blob/master/images/%E8%AF%BE%E7%A8%8B%E8%AF%84%E8%AE%BA.png)
 
-### 7、结账
+### 7、已购商品
+
+![](https://github.com/CrazyQii/EStore/blob/master/images/%E5%B7%B2%E8%B4%AD%E8%AF%BE%E7%A8%8B.png)
+
+### 8、结账
 
 ![](https://i.imgur.com/xPb2N4m.png)
+
+### 9、管理员后台
+![](https://github.com/CrazyQii/EStore/blob/master/images/%E7%AE%A1%E7%90%86%E5%91%98%E5%90%8E%E5%8F%B0.png)
+
+![](https://github.com/CrazyQii/EStore/blob/master/images/%E7%AE%A1%E7%90%86%E5%91%98%E6%9F%A5%E7%9C%8B%E8%AF%84%E4%BB%B7.png)
 
 # 三、升级建议
 
