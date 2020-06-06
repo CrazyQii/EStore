@@ -39,31 +39,23 @@
 
 ![](https://github.com/CrazyQii/EStore/blob/master/images/%E5%88%86%E9%A1%B5.png)
 
-### 3、范围筛选
-
-![](https://i.imgur.com/35SjE32.png)
-
-### 4、购物车
-
-![](https://i.imgur.com/5bczaKm.png)
-
-### 5、商品详情
+### 3、商品详情
 
 ![](https://github.com/CrazyQii/EStore/blob/master/images/%E8%AF%BE%E7%A8%8B%E8%AF%A6%E6%83%85.png)
 
-### 6、课程评价
+### 4、课程评价
 
 ![](https://github.com/CrazyQii/EStore/blob/master/images/%E8%AF%BE%E7%A8%8B%E8%AF%84%E8%AE%BA.png)
 
-### 7、已购商品
+### 5、已购商品
 
 ![](https://github.com/CrazyQii/EStore/blob/master/images/%E5%B7%B2%E8%B4%AD%E8%AF%BE%E7%A8%8B.png)
 
-### 8、结账
+### 6、结账
 
 ![](https://i.imgur.com/xPb2N4m.png)
 
-### 9、管理员后台
+### 7、管理员后台
 ![](https://github.com/CrazyQii/EStore/blob/master/images/%E7%AE%A1%E7%90%86%E5%91%98%E5%90%8E%E5%8F%B0.png)
 
 ![](https://github.com/CrazyQii/EStore/blob/master/images/%E7%AE%A1%E7%90%86%E5%91%98%E6%9F%A5%E7%9C%8B%E8%AF%84%E4%BB%B7.png)
