@@ -25,7 +25,7 @@
 		          		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-user" aria-hidden="true"></span>&nbsp;admin<span class="caret"></span></a>
 		          		<ul class="dropdown-menu">
 				            <li><a href="/userServlet?method=getUserInfo&username=admin&accountId=1">账号信息</a></li>
-				            <li><a href="/userServlet?method=getUserTrade&username=admin">我的订单</a></li>
+				            <li><a href="/userServlet?method=getUserTrade&username=admin">我的课程</a></li>
 				            <li role="separator" class="divider"></li>
 				            <li><a href="/login.html">退出</a></li>
 		          		</ul>

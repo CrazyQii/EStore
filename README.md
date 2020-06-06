@@ -20,7 +20,12 @@
 	- 修改src/c3p0-config.xml中的数据库账号密码
 	- 在eclipse中配置好tomcat，run on server即可
 
-
+客户登录:
+    username: admin
+    password: 123456
+管理员登录
+    username: admin2
+    password: 123456
 # 二、预览
 
 
@@ -41,7 +46,15 @@
 
 ![](https://i.imgur.com/5bczaKm.png)
 
-### 5、结账
+### 5、商品详情
+
+    ![]()
+
+### 6、已购商品
+
+![]()
+
+### 7、结账
 
 ![](https://i.imgur.com/xPb2N4m.png)
 
@@ -52,14 +65,9 @@
 - 完善收藏功能
 
 	![](https://i.imgur.com/od9lZb4.png)
-
-- 重写商品详情页
 	
 - 增加登陆注册功能
 
-- 增加个人中心功能
-
-	![](https://i.imgur.com/YijyssV.png)
 
 
 

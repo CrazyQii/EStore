@@ -12,14 +12,11 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>个人中心</title>
     <link href="<%=cssUrl%>bootstrap.min.css" rel="stylesheet">
-
     <link href="<%=cssUrl%>index.css" rel="stylesheet">
 
     <script type="text/javascript" src="<%=jsUrl%>jquery-3.2.1.min.js"></script>
     <script type="text/javascript" src="<%=jsUrl%>bootstrap.min.js"></script>
     <%--<%@ include file="/commons/queryCondition.jsp" %>--%>
-    <script type="text/javascript" src="<%=jsUrl%>jquery-3.2.1.min.js"></script>
-    <script type="text/javascript" src="<%=jsUrl%>bootstrap.min.js"></script>
 </head>
 <body>
 

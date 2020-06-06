@@ -27,8 +27,9 @@
     <div class="container" style="display: flex;">
         <div>
             <h3 style="margin: 4rem auto;">用户评价</h3>
+            <p style="font-size: 20px;d">${computer.model}</p>
+            <img src="${computer.teacher}" style="width: 80%;">
 
-            <img src="${computer.url}" style="width: 80%;">
         </div>
 
         <div class="list-group" style="width: 80%; padding-top: 4rem;">

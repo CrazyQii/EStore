@@ -276,6 +276,7 @@ public class ComputerServlet extends HttpServlet {
 		
 		response.sendRedirect(request.getContextPath() + "/error-1.jsp");
 	}
+	// 获取单个商品
 	protected void getComputer(HttpServletRequest request,HttpServletResponse response) throws IOException, ServletException {
 		String idStr = request.getParameter("id");
 
@@ -327,6 +328,7 @@ public class ComputerServlet extends HttpServlet {
 		request.setAttribute("computerpage", page);
 		request.getRequestDispatcher("/WEB-INF/pages/computers.jsp").forward(request, response);
 	}
+	// 检查库存
 	protected void checkStock(HttpServletRequest request,HttpServletResponse response) throws IOException, ServletException {
 		List<Computer> cList = computerService.getComputerlist();
 		
@@ -374,6 +376,7 @@ public class ComputerServlet extends HttpServlet {
 		response.getWriter().print(jsonStr);
 	}
 
+	// 获取评论
 	protected void getComments(HttpServletRequest request,HttpServletResponse response) throws IOException, ServletException {
 		int computerId = Integer.parseInt(request.getParameter("computerId"));
 
